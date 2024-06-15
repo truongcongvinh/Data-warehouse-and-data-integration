@@ -1,1 +1,3 @@
-# Data-warehouse-and-data-integration
+# Build Data Warehouse based on Product and Purchase module
+Effective inventory management is crucial for our bicycle manufacturing business, which serves North America, Europe, and Asia. With a wide range of products and vast markets, precise and timely tracking of inventory is essential. This involves determining the optimal stock levels, managing distribution, and forecasting customer demand. Efficient warehouse management ensures smooth operations, accurate order fulfillment, and proper procurement of raw materials. This project aims to develop strategies for improving product data accuracy, helping decision-makers plan effectively and enhance overall business performance.
+
